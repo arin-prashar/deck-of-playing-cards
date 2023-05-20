@@ -7,7 +7,7 @@ Way to use
   eg. 10S.png for 10 of spade
 - Use a variable to store the card name  let it be x
 -To get the image use this method 
---[ https://]https://arin-prashar.github.io/deck-of-playing-cards/cards/{x}
+--https://arin-prashar.github.io/deck-of-playing-cards/cards/{x}
 ```
 
 
