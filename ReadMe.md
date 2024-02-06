@@ -8,6 +8,7 @@ Way to use
 - Use a variable to store the card name  let it be x
 -To get the image use this method 
 --https://arin-prashar.github.io/deck-of-playing-cards/cards/{x}
+-- using domain  https://dkgamer.fun/ards/{x}
 ```
 
 
